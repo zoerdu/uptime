@@ -4,19 +4,19 @@
     "url": "https://git.zoerdu.me",
     "icon": "https://icons.duckduckgo.com/ip3/git.zoerdu.me.ico",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 592,
-    "timeDay": 474,
-    "timeWeek": 609,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 596,
+    "timeDay": 567,
+    "timeWeek": 615,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-04-07": 2
+      "2023-04-07": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nc.zoerdu.me",
     "icon": "https://icons.duckduckgo.com/ip3/nc.zoerdu.me.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 993,
-    "timeDay": 846,
-    "timeWeek": 970,
-    "timeMonth": 993,
-    "timeYear": 993,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1002,
+    "timeDay": 995,
+    "timeWeek": 992,
+    "timeMonth": 1002,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2023-04-07": 2
+      "2023-04-07": 19
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://drone.zoerdu.me",
     "icon": "https://icons.duckduckgo.com/ip3/drone.zoerdu.me.ico",
     "slug": "drone",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 594,
-    "timeDay": 483,
-    "timeWeek": 590,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 597,
+    "timeDay": 567,
+    "timeWeek": 598,
+    "timeMonth": 597,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2023-04-07": 1
+      "2023-04-07": 18
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://zoerdu.me",
     "icon": "https://icons.duckduckgo.com/ip3/zoerdu.me.ico",
     "slug": "zoerdu-selbst",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 419,
-    "timeDay": 324,
-    "timeWeek": 402,
+    "timeDay": 378,
+    "timeWeek": 406,
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2023-04-07": 1
+      "2023-04-07": 18
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://mail.zoerdu.me",
     "icon": "https://icons.duckduckgo.com/ip3/mail.zoerdu.me.ico",
     "slug": "mail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 809,
-    "timeWeek": 1095,
-    "timeMonth": 911,
-    "timeYear": 911,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 948,
+    "timeDay": 1155,
+    "timeWeek": 1146,
+    "timeMonth": 948,
+    "timeYear": 948,
     "dailyMinutesDown": {
-      "2023-04-07": 0
+      "2023-04-07": 17
     }
   }
 ]
