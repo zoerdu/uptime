@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.zoerdu.me.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 589,
-    "timeDay": 717,
-    "timeWeek": 590,
+    "timeDay": 578,
+    "timeWeek": 586,
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1003,
-    "timeDay": 1006,
-    "timeWeek": 997,
-    "timeMonth": 1003,
-    "timeYear": 1003,
+    "time": 1002,
+    "timeDay": 958,
+    "timeWeek": 951,
+    "timeMonth": 1002,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2023-04-07": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 582,
-    "timeDay": 630,
-    "timeWeek": 566,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "time": 578,
+    "timeDay": 463,
+    "timeWeek": 547,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2023-04-07": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 414,
-    "timeDay": 452,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "time": 410,
+    "timeDay": 318,
+    "timeWeek": 392,
+    "timeMonth": 410,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2023-04-07": 18
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 996,
-    "timeDay": 1744,
-    "timeWeek": 1147,
-    "timeMonth": 996,
-    "timeYear": 996,
+    "time": 1007,
+    "timeDay": 1270,
+    "timeWeek": 1049,
+    "timeMonth": 1007,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2023-04-07": 17
     }
