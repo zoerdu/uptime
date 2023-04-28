@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 615,
-    "timeDay": 789,
-    "timeWeek": 607,
-    "timeMonth": 615,
-    "timeYear": 615,
+    "time": 617,
+    "timeDay": 662,
+    "timeWeek": 639,
+    "timeMonth": 621,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2023-04-07": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1548,
-    "timeDay": 1159,
-    "timeWeek": 998,
-    "timeMonth": 1612,
-    "timeYear": 1548,
+    "time": 1532,
+    "timeDay": 969,
+    "timeWeek": 993,
+    "timeMonth": 1614,
+    "timeYear": 1532,
     "dailyMinutesDown": {
       "2023-04-07": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 589,
-    "timeDay": 575,
-    "timeWeek": 575,
-    "timeMonth": 586,
-    "timeYear": 589,
+    "time": 590,
+    "timeDay": 606,
+    "timeWeek": 595,
+    "timeMonth": 589,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2023-04-07": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 486,
-    "timeDay": 453,
-    "timeWeek": 426,
-    "timeMonth": 493,
-    "timeYear": 486,
+    "time": 485,
+    "timeDay": 451,
+    "timeWeek": 444,
+    "timeMonth": 495,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2023-04-07": 18
     }
@@ -85,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.zoerdu.me.ico",
     "slug": "mail",
     "status": "down",
-    "uptime": "76.35%",
+    "uptime": "74.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "74.76%",
-    "uptimeYear": "76.35%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "71.48%",
+    "uptimeYear": "74.07%",
     "time": 1240,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1318,
+    "timeMonth": 1345,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2023-04-27": 59,
+      "2023-04-28": 59,
+      "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
