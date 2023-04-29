@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 617,
-    "timeDay": 662,
-    "timeWeek": 639,
-    "timeMonth": 621,
-    "timeYear": 617,
+    "time": 622,
+    "timeDay": 834,
+    "timeWeek": 691,
+    "timeMonth": 633,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2023-04-07": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1532,
-    "timeDay": 969,
-    "timeWeek": 993,
-    "timeMonth": 1614,
-    "timeYear": 1532,
+    "time": 1516,
+    "timeDay": 907,
+    "timeWeek": 1007,
+    "timeMonth": 1616,
+    "timeYear": 1516,
     "dailyMinutesDown": {
       "2023-04-07": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 590,
-    "timeDay": 606,
-    "timeWeek": 595,
-    "timeMonth": 589,
-    "timeYear": 590,
+    "time": 589,
+    "timeDay": 548,
+    "timeWeek": 605,
+    "timeMonth": 586,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2023-04-07": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 485,
-    "timeDay": 451,
-    "timeWeek": 444,
-    "timeMonth": 495,
-    "timeYear": 485,
+    "time": 482,
+    "timeDay": 347,
+    "timeWeek": 446,
+    "timeMonth": 496,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2023-04-07": 18
     }
@@ -85,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.zoerdu.me.ico",
     "slug": "mail",
     "status": "down",
-    "uptime": "74.07%",
+    "uptime": "71.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.48%",
-    "uptimeYear": "74.07%",
+    "uptimeMonth": "68.20%",
+    "uptimeYear": "71.93%",
     "time": 1240,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1345,
+    "timeMonth": 1376,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2023-04-28": 59,
+      "2023-04-29": 56,
+      "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
