@@ -1,7 +1,7 @@
 url: https://drone.zoerdu.me
-status: up
-code: 200
-responseTime: 665
-lastUpdated: 2023-05-05T04:59:28.131Z
+status: down
+code: 502
+responseTime: 590
+lastUpdated: 2023-05-05T05:47:48.107Z
 startTime: Sat Mar 25 2023 13:48:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
