@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.zoerdu.me.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "50.39%",
+    "uptime": "50.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.82%",
-    "uptimeMonth": "89.37%",
-    "uptimeYear": "44.73%",
+    "uptimeWeek": "39.63%",
+    "uptimeMonth": "86.11%",
+    "uptimeYear": "44.63%",
     "time": 608,
     "timeDay": 0,
-    "timeWeek": 1454,
-    "timeMonth": 573,
+    "timeWeek": 1925,
+    "timeMonth": 592,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-05-07": 53,
+      "2024-05-08": 43,
+      "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -224,8 +225,7 @@
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
-      "2023-05-10": 1440,
-      "2023-05-09": 1440
+      "2023-05-10": 1440
     }
   },
   {
@@ -234,18 +234,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.zoerdu.me.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "50.22%",
+    "uptime": "50.10%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.01%",
-    "uptimeMonth": "89.38%",
-    "uptimeYear": "44.54%",
+    "uptimeWeek": "39.82%",
+    "uptimeMonth": "86.11%",
+    "uptimeYear": "44.44%",
     "time": 1083,
     "timeDay": 0,
-    "timeWeek": 1460,
-    "timeMonth": 526,
+    "timeWeek": 1849,
+    "timeMonth": 540,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2024-05-07": 53,
+      "2024-05-08": 43,
+      "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -452,8 +453,7 @@
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
-      "2023-05-10": 1440,
-      "2023-05-09": 1440
+      "2023-05-10": 1440
     }
   },
   {
@@ -462,18 +462,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drone.zoerdu.me.ico",
     "slug": "drone",
     "status": "down",
-    "uptime": "20.35%",
+    "uptime": "20.30%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.01%",
-    "uptimeMonth": "89.42%",
+    "uptimeWeek": "39.82%",
+    "uptimeMonth": "86.15%",
     "uptimeYear": "11.22%",
     "time": 489,
     "timeDay": 0,
-    "timeWeek": 258,
-    "timeMonth": 379,
+    "timeWeek": 303,
+    "timeMonth": 382,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2024-05-07": 53,
+      "2024-05-08": 43,
+      "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -795,8 +796,7 @@
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
-      "2023-05-10": 1440,
-      "2023-05-09": 1440
+      "2023-05-10": 1440
     }
   },
   {
@@ -805,18 +805,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zoerdu.me.ico",
     "slug": "zoerdu-selbst",
     "status": "down",
-    "uptime": "49.15%",
+    "uptime": "49.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.80%",
-    "uptimeMonth": "89.37%",
-    "uptimeYear": "43.35%",
+    "uptimeWeek": "39.62%",
+    "uptimeMonth": "86.11%",
+    "uptimeYear": "43.24%",
     "time": 592,
     "timeDay": 0,
-    "timeWeek": 1362,
-    "timeMonth": 548,
-    "timeYear": 623,
+    "timeWeek": 1801,
+    "timeMonth": 565,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-05-07": 53,
+      "2024-05-08": 43,
+      "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -1026,8 +1027,7 @@
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
-      "2023-05-10": 1440,
-      "2023-05-09": 1440
+      "2023-05-10": 1440
     }
   },
   {
@@ -1036,18 +1036,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.zoerdu.me.ico",
     "slug": "mail",
     "status": "down",
-    "uptime": "16.34%",
+    "uptime": "16.30%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.01%",
-    "uptimeMonth": "89.42%",
+    "uptimeWeek": "39.82%",
+    "uptimeMonth": "86.15%",
     "uptimeYear": "11.22%",
     "time": 683,
     "timeDay": 0,
-    "timeWeek": 153,
-    "timeMonth": 365,
+    "timeWeek": 210,
+    "timeMonth": 377,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-05-07": 53,
+      "2024-05-08": 43,
+      "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -1369,8 +1370,7 @@
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
-      "2023-05-10": 1440,
-      "2023-05-09": 1440
+      "2023-05-10": 1440
     }
   }
 ]
