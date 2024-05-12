@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.zoerdu.me.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "49.90%",
+    "uptime": "49.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.22%",
+    "uptimeMonth": "72.93%",
     "uptimeYear": "44.63%",
     "time": 608,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 629,
+    "timeMonth": 651,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-05-11": 53,
+      "2024-05-12": 58,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -224,8 +225,7 @@
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
-      "2023-05-14": 1440,
-      "2023-05-13": 1440
+      "2023-05-14": 1440
     }
   },
   {
@@ -234,18 +234,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.zoerdu.me.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "49.74%",
+    "uptime": "49.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.23%",
+    "uptimeMonth": "72.93%",
     "uptimeYear": "44.44%",
     "time": 1083,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 579,
+    "timeMonth": 596,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2024-05-11": 53,
+      "2024-05-12": 58,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -452,8 +453,7 @@
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
-      "2023-05-14": 1440,
-      "2023-05-13": 1440
+      "2023-05-14": 1440
     }
   },
   {
@@ -462,18 +462,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drone.zoerdu.me.ico",
     "slug": "drone",
     "status": "down",
-    "uptime": "20.15%",
+    "uptime": "20.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.27%",
+    "uptimeMonth": "72.97%",
     "uptimeYear": "11.22%",
-    "time": 487,
+    "time": 486,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 392,
+    "timeMonth": 395,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2024-05-11": 53,
+      "2024-05-12": 58,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -795,8 +796,7 @@
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
-      "2023-05-14": 1440,
-      "2023-05-13": 1440
+      "2023-05-14": 1440
     }
   },
   {
@@ -805,18 +805,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zoerdu.me.ico",
     "slug": "zoerdu-selbst",
     "status": "down",
-    "uptime": "48.68%",
+    "uptime": "48.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.22%",
+    "uptimeMonth": "72.92%",
     "uptimeYear": "43.24%",
     "time": 592,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 602,
+    "timeMonth": 622,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-05-11": 53,
+      "2024-05-12": 58,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -1026,8 +1027,7 @@
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
-      "2023-05-14": 1440,
-      "2023-05-13": 1440
+      "2023-05-14": 1440
     }
   },
   {
@@ -1036,18 +1036,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.zoerdu.me.ico",
     "slug": "mail",
     "status": "down",
-    "uptime": "16.18%",
+    "uptime": "16.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.27%",
+    "uptimeMonth": "72.97%",
     "uptimeYear": "11.22%",
     "time": 683,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 403,
+    "timeMonth": 408,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-05-11": 53,
+      "2024-05-12": 58,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -1369,8 +1370,7 @@
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
-      "2023-05-14": 1440,
-      "2023-05-13": 1440
+      "2023-05-14": 1440
     }
   }
 ]
