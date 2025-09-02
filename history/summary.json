@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.zoerdu.me.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "23.11%",
+    "uptime": "23.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 936,
+    "time": 995,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-01": 85,
+      "2025-09-02": 74,
+      "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -379,8 +380,7 @@
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
-      "2024-09-03": 1440,
-      "2024-09-02": 1440
+      "2024-09-03": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.zoerdu.me.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "23.04%",
+    "uptime": "23.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 667,
+    "time": 707,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-01": 85,
+      "2025-09-02": 74,
+      "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -763,8 +764,7 @@
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
-      "2024-09-03": 1440,
-      "2024-09-02": 1440
+      "2024-09-03": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drone.zoerdu.me.ico",
     "slug": "drone",
     "status": "down",
-    "uptime": "9.34%",
+    "uptime": "9.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 245,
+    "time": 253,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-01": 85,
+      "2025-09-02": 75,
+      "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -1147,8 +1148,7 @@
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
-      "2024-09-03": 1440,
-      "2024-09-02": 1440
+      "2024-09-03": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zoerdu.me.ico",
     "slug": "zoerdu-selbst",
     "status": "down",
-    "uptime": "22.55%",
+    "uptime": "22.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 583,
+    "time": 617,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-01": 85,
+      "2025-09-02": 75,
+      "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -1531,8 +1532,7 @@
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
-      "2024-09-03": 1440,
-      "2024-09-02": 1440
+      "2024-09-03": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.zoerdu.me.ico",
     "slug": "mail",
     "status": "down",
-    "uptime": "7.50%",
+    "uptime": "7.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 196,
+    "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-01": 85,
+      "2025-09-02": 75,
+      "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -1915,8 +1916,7 @@
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
-      "2024-09-03": 1440,
-      "2024-09-02": 1440
+      "2024-09-03": 1440
     }
   }
 ]
